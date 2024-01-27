@@ -94,7 +94,7 @@ footer{
     flex-direction: column;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 620px) {
     h1{
         width: 470px;
     }
