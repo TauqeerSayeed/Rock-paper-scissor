@@ -111,5 +111,8 @@ footer{
     footer{
         width: 470px;
     }
+    #msg{
+        font-size: 1rem;
+    }
     
 }
