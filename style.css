@@ -93,3 +93,23 @@ footer{
     display: flex;
     flex-direction: column;
 }
+
+@media screen and (max-width: 600px) {
+    h1{
+        width: 470px;
+    }
+    .choices{
+        width: 400px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .score-board{
+        text-align: center;
+    }
+    footer{
+        width: 470px;
+    }
+    
+}
