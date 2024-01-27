@@ -12,7 +12,7 @@ const drawGame=()=>{
 }
 
 const genCompChoice = () => {
-    const options = ["rock", "paper", "scissors"];
+    const options = ["rock", "paper", "scissor"];
     const randIdx = Math.floor(Math.random() * 3);
     return options[randIdx];
   };
